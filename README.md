@@ -13,7 +13,7 @@ project_folder
 
 You have to create two folders `project_folder`, `venv` by yourself.
 
-We prefer adding prefix such as "yyyymm_" to project_folder because it makes easier to manage several projects simaltaneously.
+We prefer adding project init year month prefix such as "yyyymm_" (i.e. `201605_pythonstory`) to project_folder because it makes easier to manage several projects simaltaneously.
 
 Each developer may have their own virtual environment directory `venv`.
 
