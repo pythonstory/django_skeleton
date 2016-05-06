@@ -17,9 +17,7 @@ We prefer adding project init year month prefix such as "yyyymm_" (i.e. `201605_
 
 Each developer may have their own virtual environment directory `venv`.
 
-This repository name is currently `django_skeleton`, but we propose to rename it to `repo`.
-
-Unity by convention helps us to manage projects a lot easier.
+This repository name is currently `django_skeleton`, but we propose to rename it to `repo`. Unity by convention helps us to manage projects a lot easier.
 
 ```
 git clone https://github.com/pythonstory/django_skeleton repo
