@@ -4,11 +4,23 @@
 We suggest the file/directory sturcture for the Django project quickstart as follows:
 
 ```
-project_folder
- |
- +- venv (virtual environment for project)
- |
- +- repo (current repository)
+project_folder\
+    venv\
+        Scripts\ (on Windows)
+            activate.bat
+        bin\ (on Linux)
+            activate
+            activate.csh
+    repo\ (current project)
+        project\
+            manage.py
+            conf\
+                __init__.py
+                settings.py
+                urls.py
+                wsgi.py
+            app1\
+            app2\
 ```
 
 You have to create two folders `project_folder`, `venv` by yourself.
